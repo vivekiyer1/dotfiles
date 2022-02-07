@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = vivek.k.iyer@gmail.com
+	name = Vivek Iyer
